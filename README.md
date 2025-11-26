@@ -1,10 +1,3 @@
-Below is a clean and professional `README.md` template tailored for a medical chatbot project based on your uploaded notebook name: **sathishkumar_tn_medical_chatbot(kaggle)**.
-
-You can edit small details such as dataset source, model type, and screenshots if needed.
-
----
-
-````markdown
 # Medical Chatbot using Machine Learning
 
 This repository contains a medical chatbot built using a machine learning model trained on symptom-based medical datasets from Kaggle. The system allows users to input symptoms and receive predicted disease suggestions along with potential precautions. The goal of this project is to assist with early screening and improve accessibility to primary medical information. This project is for educational and research purposes only and is not intended for real clinical use.
