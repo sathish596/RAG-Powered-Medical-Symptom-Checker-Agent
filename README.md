@@ -103,15 +103,9 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ## Author
 
-**Sathish Kumar**
-(Contact: +1 4096788416 ||
+**Sathish Kumar TN**
+(Contact: +1 4096788416
 
 email:sathishkumartn80@gmail.com)
 
-```
-
----
-
-
-Would you like any of those additions?
 ```
