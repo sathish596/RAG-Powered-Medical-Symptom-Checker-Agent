@@ -72,6 +72,27 @@ Follow the instructions in the notebook to train the model and interact with the
 
 ---
 
+## Web App (Streamlit)
+
+This repository includes a simple Streamlit app that suggests conditions based on symptom overlap.
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the app
+
+```bash
+streamlit run app.py
+```
+
+The app reads the bundled Kaggle dataset ZIP (`archive (2).zip`) to build symptom/condition
+matching and display precaution suggestions.
+
+---
+
 ## Model
 
 * Machine Learning Method: (Update: Decision Tree / Random Forest / NLP model, etc.)
